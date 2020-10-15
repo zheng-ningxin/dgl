@@ -222,7 +222,7 @@ Heterogeneous graph
 
 Graph classification with heterogeneous graphs is a little different
 from that with homogeneous graphs. Except that you need heterogeneous
-graph convolution modules, yoyu also need to aggregate over the nodes of
+graph convolution modules, you also need to aggregate over the nodes of
 different types in the readout function.
 
 The following shows an example of summing up the average of node
